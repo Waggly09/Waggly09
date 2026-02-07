@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ricardo Martínez Flores
 
-<!--
-**Waggly09/Waggly09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation & Controls Engineer turned Data Analyst. I build data products and automation-friendly tools for manufacturing: dashboards, EDA, Streamlit apps, and inventory systems.
 
-Here are some ideas to get you started:
+## What I do
+- 📊 Data Analysis: Python (pandas), SQL, Power BI, EDA, reporting
+- 🤖 Industrial: PLC, industrial vision, robotics, production-line optimization
+- 🧩 Projects: practical apps with clear business impact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **Sales Analysis (Data Analytics)** – performance, trends, growth opportunities
+- **Used Cars EDA + Streamlit App** – interactive exploration and insights
+- **Inventory App (Python)** – local inventory management and operations control
+
+## Tech Stack
+Python • pandas • SQL • Power BI • Streamlit • Git/GitHub
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/ricardomartinezflores
